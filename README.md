@@ -109,7 +109,4 @@ MIT License — see the LICENSE file.
 For questions or suggestions, you can open an issue or reach out to the repo owner.
 
 
----
-
-If you like, I can generate a **README badge section** (coverage, build, etc.) for you, or integrate instructions specific to your local Postgres config. Do you want me to add those?
-::contentReference[oaicite:0]{index=0}
+---------------------------------------------------------------------------------------------------
